@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "dayu Pro"
+    },
+    {
+      "id": 2,
+      "title": "22222222",
+      "author": "Zul"
+    },
+    {
+      "title": "333",
+      "author": "dead",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "11 comment",
+      "postId": 1
+    }
+  ]
+}

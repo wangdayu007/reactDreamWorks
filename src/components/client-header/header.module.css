@@ -1,0 +1,24 @@
+.nav{
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.logo p{
+    font-size: 30px;
+    color: #cee002;
+    font-weight: 800;
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    padding:30px;
+    cursor: pointer;
+}
+.active{
+    color:#cee002;
+}

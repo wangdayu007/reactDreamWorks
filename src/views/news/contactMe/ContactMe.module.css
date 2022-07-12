@@ -1,0 +1,10 @@
+.wrap{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+    width: 100%;
+    height: 100vh;
+    overflow-y: auto;
+    background-image: linear-gradient(to bottom, #d16ba5, #ee7386, #f58a66, #e7a752, #c8c557, #b0d46b, #95e187, #74eda9, #69f1bd, #60f5cf, #5df8e1, #5ffbf1);
+}
